@@ -1,6 +1,5 @@
 ## Hi, I'm Crislaine, welcome!
 
-![CrislaineGitHubstats](https://github-readme-stats.vercel.app/api?username=CrislainePaula&show_icons=true&theme=dracula)
 
 ## |Technologies I'm Learning ##
 <div style="display: inline_block;"><br>
