@@ -7,7 +7,7 @@
         <img align= "center" alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40">
         <img align= "center" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40">
         <img align= "center" alt="C sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40">
-        <img align= "center" alt="Python" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> width="40" height="40">
+        <img align= "center" alt="Python" src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40">
         <img align= "center" alt="dotnetcore" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40">
         <img align= "center" alt="dotnet" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="40" height="40">
         <img align= "right" alt="Pandoro" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0H_g5wXW1qyEp0krQB2R078S3zlAmhBgwmmQv4_ao1H4bzHMg18KxFK9k2vmow94pM-NX7uC1WhrdGY3hwbTN1hlO0AA6QLgwZRBcMyMukplESFYvTK5nlPClWd1LETluL9MtMGp1Z_zjDGqv3RCk8JgFTOkkXmsAzsDtV3nduqPBnzGeo0mPnFhH/s320/luna.png" width="110px" height="110px">
